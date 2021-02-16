@@ -1,2 +1,5 @@
 <!--pages/home/home.wxml-->
-<text>pages/home/home.wxml</text>
+<text>首页</text>
+
+<view>嘻嘻嘻</view>
+<view>知识点1</view>
